@@ -41,7 +41,7 @@ This repository is open for contributions! Feel free to:
 
 ## 📬 Contact
 🔗 LinkedIn: [Aayush Kumbhar][(https://www.linkedin.com/in/aayush-kumbhar-5a3a38259/)]
-🔗 GitHub: [Your GitHub](https://github.com/your-username)  
+🔗 GitHub: [Aayush Kumbhar][(https://github.com/Twilightask)]
 
 ---
 
