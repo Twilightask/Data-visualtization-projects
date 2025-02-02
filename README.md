@@ -40,7 +40,8 @@ This repository is open for contributions! Feel free to:
 - Provide feedback via discussions 💬
 
 ## 📬 Contact
-🔗 LinkedIn: [Aayush Kumbhar][(https://www.linkedin.com/in/aayush-kumbhar-5a3a38259/)]
+🔗 LinkedIn: [Aayush Kumbhar][(https://www.linkedin.com/in/aayush-kumbhar-5a3a38259/)]                            
+
 🔗 GitHub: [Aayush Kumbhar][(https://github.com/Twilightask)]
 
 ---
